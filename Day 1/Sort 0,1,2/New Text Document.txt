@@ -1,0 +1,8 @@
+Normal Sorting Algorithm
+
+Count No. of 0's, 1's and 2's
+then create matrix accordingly
+
+Optimal
+Using dutch national flag algorithm
+(see in strivers video)
