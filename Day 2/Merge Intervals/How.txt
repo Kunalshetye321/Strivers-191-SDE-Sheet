@@ -1,0 +1,12 @@
+//Brute
+Result 2d List -> res
+temp stand by array 1d -> temp
+compare temp with each individual array of given 2d array
+for
+	if(temp[j] > arr[i])
+		merge
+	else
+		add temp to res
+		update res
+		
+return res

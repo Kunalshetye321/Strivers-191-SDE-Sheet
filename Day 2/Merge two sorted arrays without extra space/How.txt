@@ -1,0 +1,19 @@
+//brute
+use an extra array 
+insert elements
+sort array
+assign elements to both the array
+
+//optimal1
+two pointer
+one point to last position of 1st array as left
+second point to first position of 2nd array as right
+
+traverse
+	if(arr1[left] > arr2[right])
+		swap();
+	else(arr1[left] < arr2[right])
+		break
+
+//optimal2
+//gap method present in shells sorting algo

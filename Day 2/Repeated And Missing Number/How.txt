@@ -1,0 +1,12 @@
+//Brute
+We will run a loop(say i) from 1 to N.
+For each integer, i, we will count its occurrence in the given array using linear search.
+We will store those two elements that have the occurrence of 2 and 0.
+Finally, we will return the elements.
+
+//Optimal1
+(Using math)
+
+First, find out the values of S and Sn and then calculate S – Sn (Using the above formulas).
+Then, find out the values of S2 and S2n and then calculate S2 – S2n.
+After performing steps 1 and 2, we will be having the values of X + Y and X – Y. Now, by substitution of values, we can easily find the values of X and Y.

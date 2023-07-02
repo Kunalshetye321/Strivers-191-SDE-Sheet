@@ -1,0 +1,6 @@
+//Brute
+Create seperate array and traverse in such a way that you get required array
+
+//Optimat
+First transpose the same matrix
+Then do the horizantal mirror image of matrix
